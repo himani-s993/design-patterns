@@ -1,0 +1,6 @@
+# intelliJ IDE
+*.iml
+.idea
+
+# Project folders
+target/
